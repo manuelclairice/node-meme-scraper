@@ -35,5 +35,13 @@
     "@typescript-eslint/parser": "5.9.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-react": "7.28.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "download-image": "^1.0.1",
+    "got": "^12.0.1",
+    "html-urls": "^2.4.27",
+    "request": "^2.88.2",
+    "scrapefrom": "^2.2.8"
   }
 }
